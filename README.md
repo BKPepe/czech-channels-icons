@@ -24,6 +24,6 @@ TV channels icons are not my work. I found them on the internet and I edit their
 
 For watching TV I'm using as backend [Tvheadend](https://tvheadend.org)
 as frontend I'm using [Kodi (XBMC)](https://kodi.tv)  
-Preview: https://github.bloodkings.eu/czech-channels-icons/preview.png)
+Preview: https://github.bloodkings.eu/czech-channels-icons/preview.png
   
 Pull request are welcome. If you have any questions, please send me email: <github@bloodkings.eu>
