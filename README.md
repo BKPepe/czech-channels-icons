@@ -65,8 +65,8 @@ Tvheadend 4.2.2 a starší a vývojové verze 4.3 do června 2017 nahrazovaly po
 Stav k 11. 10. 2026:
 
 - Názvy kanálů jsou ověřené podle seznamu kanálů z Tvheadendu na síti Vodafone z 11. 10. 2026. Seznam pokrývá 28 z 32 muxů přehledu a má 164 televizních kanálů. Zbylé 4 muxy (562, 746, 770 a 778 MHz) zatím naskenované nejsou. Jejich 19 kanálů má předběžný název odvozený z přehledu.
-- Ze 183 kanálů má 115 logo pod názvem, který Tvheadend hledá, a 68 logo chybí.
-- Repozitář má 115 souborů s logy, pro každý kanál s logem jeden. Podle seznamu z Tvheadendu bylo 25 souborů přejmenováno a 7 zkopírováno pro kanály se stejným logem. Další 2 soubory dostaly předběžný název podle přehledu. Smazáno bylo 94 souborů, které žádný kanál nepoužívá.
+- Ze 183 kanálů má 150 logo pod názvem, který Tvheadend hledá, a 33 logo chybí.
+- Repozitář má 150 souborů s logy, pro každý kanál s logem jeden. Podle seznamu z Tvheadendu bylo 25 souborů přejmenováno a 7 zkopírováno pro kanály se stejným logem. Další 2 soubory dostaly předběžný název podle přehledu. Smazáno bylo 94 souborů, které žádný kanál nepoužívá.
 
 Úplný seznam kanálů je v [CHANNELS.md](CHANNELS.md).
 
@@ -162,8 +162,8 @@ Tvheadend 4.2.2 and older, and 4.3 development builds before June 2017, also rep
 As of 11 October 2026:
 
 - The channel names are checked against a Tvheadend channel list on the Vodafone network from 11 October 2026. The list covers 28 of the 32 muxes of the overview and has 164 TV channels. The other 4 muxes (562, 746, 770 and 778 MHz) have not been scanned yet. Their 19 channels have a provisional name derived from the overview.
-- Of the 183 channels, 115 have a logo under the name Tvheadend looks for and 68 have no logo yet.
-- The repository has 115 logo files, one for each channel with a logo. Following the Tvheadend list, 25 files were renamed and 7 were copied for channels with the same logo. Two more files got a provisional name from the overview. The 94 files that no channel uses were removed.
+- Of the 183 channels, 150 have a logo under the name Tvheadend looks for and 33 have no logo yet.
+- The repository has 150 logo files, one for each channel with a logo. Following the Tvheadend list, 25 files were renamed and 7 were copied for channels with the same logo. Two more files got a provisional name from the overview. The 94 files that no channel uses were removed.
 
 The full channel list is in [CHANNELS.md](CHANNELS.md).
 

@@ -12,9 +12,9 @@ The Tvheadend list covers 28 of the 32 muxes in the overview. The other 4 muxes 
 
 | Kanály / Channels | ok | chybí / missing | celkem / total |
 |---|---:|---:|---:|
-| ze seznamu z Tvheadendu / from the Tvheadend list | 104 | 60 | 164 |
-| předběžné / provisional (\*) | 11 | 8 | 19 |
-| **celkem / total** | **115** | **68** | **183** |
+| ze seznamu z Tvheadendu / from the Tvheadend list | 133 | 31 | 164 |
+| předběžné / provisional (\*) | 17 | 2 | 19 |
+| **celkem / total** | **150** | **33** | **183** |
 
 - **ok**: logo je v repozitáři pod hledaným názvem / the logo is in the repository under the expected name.
 - **chybí / missing**: logo zatím chybí / there is no logo yet.
@@ -32,8 +32,8 @@ The Tvheadend list covers 28 of the 32 muxes in the overview. The other 4 muxes 
 | 6 | CT sport | `CT sport.png` | ok |
 | 7 | regiony+ | `regiony+.png` | ok |
 | 8 | Prima SPORT HD | `Prima SPORT HD.png` | chybí / missing |
-| 9 | Nova Sport 5 HD | `Nova Sport 5 HD.png` | chybí / missing |
-| 10 | Nova Sport 6 HD | `Nova Sport 6 HD.png` | chybí / missing |
+| 9 | Nova Sport 5 HD | `Nova Sport 5 HD.png` | ok |
+| 10 | Nova Sport 6 HD | `Nova Sport 6 HD.png` | ok |
 | 11 | Barrandov TV | `Barrandov TV.png` | ok |
 | 12 | Ocko HD | `Ocko HD.png` | ok |
 | 13 | Retro Music TV | `Retro Music TV.png` | ok |
@@ -46,16 +46,16 @@ The Tvheadend list covers 28 of the 32 muxes in the overview. The other 4 muxes 
 | 20 | Markiza International \* | `Markiza International.png` | ok |
 | 21 | Praha TV \* | `Praha TV.png` | ok |
 | 22 | JOJ Family \* | `JOJ Family.png` | ok |
-| 23 | Barrandov Krimi \* | `Barrandov Krimi.png` | chybí / missing |
+| 23 | Barrandov Krimi \* | `Barrandov Krimi.png` | ok |
 | 24 | Kino Barrandov \* | `Kino Barrandov.png` | ok |
 | 25 | Mnau TV \* | `Mnau TV.png` | ok |
 | 28 | TV NOE HD | `TV NOE HD.png` | ok |
-| 29 | FILMBOX+ one | `FILMBOX+ one.png` | chybí / missing |
-| 30 | FILMBOX+ love&crime | `FILMBOX+ love&crime.png` | chybí / missing |
-| 31 | Viasat Explore HD | `Viasat Explore HD.png` | chybí / missing |
-| 32 | Viasat History HD | `Viasat History HD.png` | chybí / missing |
-| 35 | Love Nature HD | `Love Nature HD.png` | chybí / missing |
-| 36 | Love Nature UHD | `Love Nature UHD.png` | chybí / missing |
+| 29 | FILMBOX+ one | `FILMBOX+ one.png` | ok |
+| 30 | FILMBOX+ love&crime | `FILMBOX+ love&crime.png` | ok |
+| 31 | Viasat Explore HD | `Viasat Explore HD.png` | ok |
+| 32 | Viasat History HD | `Viasat History HD.png` | ok |
+| 35 | Love Nature HD | `Love Nature HD.png` | ok |
+| 36 | Love Nature UHD | `Love Nature UHD.png` | ok |
 | 37 | TV1000 Russkoje Kino | `TV1000 Russkoje Kino.png` | chybí / missing |
 | 38 | Ballcasterz HD | `Ballcasterz HD.png` | chybí / missing |
 | 40 | Kanal 1 Xtra | `Kanal 1 Xtra.png` | chybí / missing |
@@ -63,20 +63,20 @@ The Tvheadend list covers 28 of the 32 muxes in the overview. The other 4 muxes 
 | 42 | Mezzo HD | `Mezzo HD.png` | ok |
 | 43 | MTV | `MTV.png` | ok |
 | 45 | Dvojka HD | `Dvojka HD.png` | ok |
-| 46 | Deluxe Music HD | `Deluxe Music HD.png` | chybí / missing |
-| 47 | Deluxe Dance HD | `Deluxe Dance HD.png` | chybí / missing |
-| 48 | Deluxe Rap HD | `Deluxe Rap HD.png` | chybí / missing |
+| 46 | Deluxe Music HD | `Deluxe Music HD.png` | ok |
+| 47 | Deluxe Dance HD | `Deluxe Dance HD.png` | ok |
+| 48 | Deluxe Rap HD | `Deluxe Rap HD.png` | ok |
 | 51 | TV 8 | `TV 8.png` | chybí / missing |
 | 52 | Fightbox HD | `Fightbox HD.png` | ok |
 | 53 | Fast and Fun HD | `Fast and Fun HD.png` | ok |
 | 54 | Docubox HD | `Docubox HD.png` | ok |
 | 55 | Mezzo live HD | `Mezzo live HD.png` | ok |
-| 56 | Seznam.cz TV HD | `Seznam.cz TV HD.png` | chybí / missing |
+| 56 | Seznam.cz TV HD | `Seznam.cz TV HD.png` | ok |
 | 58 | HBO HD | `HBO HD.png` | ok |
-| 59 | FILMBOX+ emotion | `FILMBOX+ emotion.png` | chybí / missing |
-| 60 | FILMBOX+ comedy | `FILMBOX+ comedy.png` | chybí / missing |
-| 61 | BBC Earth | `BBC Earth.png` | chybí / missing |
-| 62 | BBC First | `BBC First.png` | chybí / missing |
+| 59 | FILMBOX+ emotion | `FILMBOX+ emotion.png` | ok |
+| 60 | FILMBOX+ comedy | `FILMBOX+ comedy.png` | ok |
+| 61 | BBC Earth | `BBC Earth.png` | ok |
+| 62 | BBC First | `BBC First.png` | ok |
 | 63 | Eurosport 1 HD | `Eurosport 1 HD.png` | ok |
 | 64 | Nat Geo HD | `Nat Geo HD.png` | ok |
 | 66 | CNN | `CNN.png` | ok |
@@ -86,11 +86,11 @@ The Tvheadend list covers 28 of the 32 muxes in the overview. The other 4 muxes 
 | 70 | Baby TV | `Baby TV.png` | chybí / missing |
 | 71 | TV Paprika HD | `TV Paprika HD.png` | ok |
 | 72 | Spektrum Home HD | `Spektrum Home HD.png` | ok |
-| 73 | Viasat True Crime | `Viasat True Crime.png` | chybí / missing |
+| 73 | Viasat True Crime | `Viasat True Crime.png` | ok |
 | 74 | AXN White | `AXN White.png` | ok |
 | 75 | AXN Black | `AXN Black.png` | ok |
 | 77 | France 24 HD (eng) | `France 24 HD (eng).png` | ok |
-| 79 | NickToons | `NickToons.png` | chybí / missing |
+| 79 | NickToons | `NickToons.png` | ok |
 | 80 | Nickelodeon | `Nickelodeon.png` | ok |
 | 81 | Minimax | `Minimax.png` | ok |
 | 82 | Jim Jam | `Jim Jam.png` | ok |
@@ -115,13 +115,13 @@ The Tvheadend list covers 28 of the 32 muxes in the overview. The other 4 muxes 
 | 101 | Nova Cinema HD | `Nova Cinema HD.png` | ok |
 | 102 | Prima COOL HD | `Prima COOL HD.png` | ok |
 | 103 | Prima ZOOM HD | `Prima ZOOM HD.png` | ok |
-| 104 | Nova Sport 3 HD | `Nova Sport 3 HD.png` | chybí / missing |
-| 105 | Nova Sport 4 HD | `Nova Sport 4 HD.png` | chybí / missing |
+| 104 | Nova Sport 3 HD | `Nova Sport 3 HD.png` | ok |
+| 105 | Nova Sport 4 HD | `Nova Sport 4 HD.png` | ok |
 | 106 | Eurosport 4K | `Eurosport 4K.png` | chybí / missing |
 | 107 | History HD \* | `History HD.png` | ok |
-| 108 | Cartoonito \* | `Cartoonito.png` | chybí / missing |
+| 108 | Cartoonito \* | `Cartoonito.png` | ok |
 | 109 | Spektrum HD \* | `Spektrum HD.png` | ok |
-| 110 | Prima Star \* | `Prima Star.png` | chybí / missing |
+| 110 | Prima Star \* | `Prima Star.png` | ok |
 | 111 | REBEL \* | `REBEL.png` | ok |
 | 112 | Lala TV \* | `Lala TV.png` | chybí / missing |
 | 113 | 2 Slager | `2 Slager.png` | chybí / missing |
@@ -129,9 +129,9 @@ The Tvheadend list covers 28 of the 32 muxes in the overview. The other 4 muxes 
 | 115 | Hustler HD | `Hustler HD.png` | ok |
 | 116 | Dog & Cat TV HD | `Dog & Cat TV HD.png` | chybí / missing |
 | 117 | France 24 | `France 24.png` | ok |
-| 118 | A11 HD | `A11 HD.png` | chybí / missing |
+| 118 | A11 HD | `A11 HD.png` | ok |
 | 119 | 1 Slager | `1 Slager.png` | chybí / missing |
-| 120 | 1+1 TV | `1+1 TV.png` | chybí / missing |
+| 120 | 1+1 TV | `1+1 TV.png` | ok |
 | 122 | Animal Planet HD | `Animal Planet HD.png` | ok |
 | 123 | KVIFF.TV | `KVIFF.TV.png` | chybí / missing |
 | 124 | Discovery HD | `Discovery HD.png` | ok |
@@ -159,18 +159,18 @@ The Tvheadend list covers 28 of the 32 muxes in the overview. The other 4 muxes 
 | 158 | Travel Channel HD | `Travel Channel HD.png` | ok |
 | 159 | Food Network HD | `Food Network HD.png` | ok |
 | 160 | Eurosport 2 HD | `Eurosport 2 HD.png` | ok |
-| 161 | Nova Krimi HD \* | `Nova Krimi HD.png` | chybí / missing |
-| 162 | Nova Fun HD \* | `Nova Fun HD.png` | chybí / missing |
-| 163 | Nova Lady HD \* | `Nova Lady HD.png` | chybí / missing |
+| 161 | Nova Krimi HD \* | `Nova Krimi HD.png` | ok |
+| 162 | Nova Fun HD \* | `Nova Fun HD.png` | ok |
+| 163 | Nova Lady HD \* | `Nova Lady HD.png` | ok |
 | 164 | Prima love HD \* | `Prima love HD.png` | ok |
 | 165 | Prima MAX HD \* | `Prima MAX HD.png` | ok |
 | 166 | RELAX HD | `RELAX HD.png` | ok |
 | 167 | JOJ Cinema HD | `JOJ Cinema HD.png` | ok |
-| 168 | Viasat Nature HD | `Viasat Nature HD.png` | chybí / missing |
+| 168 | Viasat Nature HD | `Viasat Nature HD.png` | ok |
 | 169 | JOJ Family HD | `JOJ Family HD.png` | ok |
-| 170 | Viasat Epic Drama | `Viasat Epic Drama.png` | chybí / missing |
+| 170 | Viasat Epic Drama | `Viasat Epic Drama.png` | ok |
 | 171 | AMC HD | `AMC HD.png` | ok |
-| 172 | FILMBOX+ hits | `FILMBOX+ hits.png` | chybí / missing |
+| 172 | FILMBOX+ hits | `FILMBOX+ hits.png` | ok |
 | 173 | Crime & Investigation | `Crime & Investigation.png` | ok |
 | 174 | EroXXX HD | `EroXXX HD.png` | ok |
 | 175 | Leo TV HD | `Leo TV HD.png` | ok |
@@ -187,24 +187,24 @@ The Tvheadend list covers 28 of the 32 muxes in the overview. The other 4 muxes 
 | 186 | TA 3 HD | `TA 3 HD.png` | ok |
 | 187 | Barrandov TV HD | `Barrandov TV HD.png` | ok |
 | 188 | Kino Barrandov HD | `Kino Barrandov HD.png` | ok |
-| 189 | Barrandov Krimi HD | `Barrandov Krimi HD.png` | chybí / missing |
+| 189 | Barrandov Krimi HD | `Barrandov Krimi HD.png` | ok |
 | 190 | KBS World HD | `KBS World HD.png` | ok |
 | 191 | CCTV 4 HD | `CCTV 4 HD.png` | ok |
 | 192 | CGTN Documentary HD | `CGTN Documentary HD.png` | ok |
 | 193 | CGTN HD | `CGTN HD.png` | ok |
 | 194 | Prima KRIMI HD | `Prima KRIMI HD.png` | ok |
-| 195 | CNN Prima NEWS HD | `CNN Prima NEWS HD.png` | chybí / missing |
+| 195 | CNN Prima NEWS HD | `CNN Prima NEWS HD.png` | ok |
 | 196 | JOJ Svet HD | `JOJ Svet HD.png` | chybí / missing |
 | 197 | Film Europe + HD | `Film Europe + HD.png` | chybí / missing |
 | 198 | Hobby TV HD | `Hobby TV HD.png` | chybí / missing |
-| 198 | Warner TV HD | `Warner TV HD.png` | chybí / missing |
+| 198 | Warner TV HD | `Warner TV HD.png` | ok |
 | 199 | Park TV HD | `Park TV HD.png` | chybí / missing |
 | 201 | ZDF HD | `ZDF HD.png` | ok |
 | 202 | 3sat | `3sat.png` | ok |
 | 203 | Das Erste HD | `Das Erste HD.png` | ok |
 | 206 | V 1 | `V 1.png` | ok |
 | 207 | ZAK TV | `ZAK TV.png` | ok |
-| 208 | Ustecka TV | `Ustecka TV.png` | chybí / missing |
+| 208 | Ustecka TV | `Ustecka TV.png` | ok |
 | 209 | Strakonicka TV HD | `Strakonicka TV HD.png` | chybí / missing |
 | – | TV NOE | `TV NOE.png` | ok |
 
